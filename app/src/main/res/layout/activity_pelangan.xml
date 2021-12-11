@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:background="@drawable/border_radius_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/btn_arrowBack"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/outline_arrow_back_24"
+            android:tint="@color/black"/>
+        <TextView
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Menu Pelangan"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:padding="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="380dp"
+            android:src="@drawable/not_found"/>
+
+        <TextView
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:fontFamily="@font/nunito_bold"
+            android:textSize="20sp"
+            android:text="Yahh... Halamannya Belum ada isinya nih !!"/>
+
+        <Button
+            android:id="@+id/button_back"
+            android:layout_marginTop="20dp"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/black"
+            android:background="#FECF29"
+            android:text="Kembali Ke Home"/>
+
+    </LinearLayout>
+
+</LinearLayout>

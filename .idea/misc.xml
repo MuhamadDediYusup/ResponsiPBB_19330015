@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/baseline_delete_outline_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/outline_change_circle_24.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/outline_drag_indicator_24.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/outline_grid_view_24.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/outline_local_mall_24.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable-v24/outline_more_vert_24.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable/border_radius_kedua.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable/border_radius_orange.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable/shadow.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable/shadow2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/drawable/top_bar_circle.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_dev.xml" value="0.25" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_pelangan.xml" value="0.22" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_penjualan.xml" value="0.25" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activity_transaction.xml" value="0.33" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/activiy_penjualan.xml" value="0.2" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/list_product.xml" value="0.2" />
+        <entry key="..\:/Users/Muhamad/Documents/ResponsiPPB/app/src/main/res/layout/list_product2.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
